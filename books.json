@@ -1,0 +1,38 @@
+[
+    {
+        "book_id": "2001",
+        "title": "the art of being alone",
+        "author": "renuka.g",
+        "is_issued": false
+    },
+    {
+        "book_id": "the art of nit overthinking",
+        "title": "s.kapoor",
+        "author": "12",
+        "is_issued": false
+    },
+    {
+        "book_id": "2002",
+        "title": "thr art of not overthinking",
+        "author": "s.kapoor",
+        "is_issued": true
+    },
+    {
+        "book_id": "2003",
+        "title": "vivekanand A biography",
+        "author": "swami nikhilananda",
+        "is_issued": false
+    },
+    {
+        "book_id": "2004",
+        "title": "the artof laziness",
+        "author": "l.mindset",
+        "is_issued": true
+    },
+    {
+        "book_id": "2005",
+        "title": "focus on what matters",
+        "author": "D.foroux",
+        "is_issued": false
+    }
+]
